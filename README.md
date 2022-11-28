@@ -1,2 +1,2 @@
-# sprites
-Css sprites
+# Weather background for application development
+
